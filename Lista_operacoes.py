@@ -1,3 +1,3 @@
 pecas = ["motor", "roda", "freio"]
-pecas.append("motor")
+pecas.remove("motor")
 print(pecas)
