@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="Lista python completo 1.1">
-      <change afterPath="$PROJECT_DIR$/Tuplas.py" afterDir="false" />
+    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="Módulo 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Módulo 2/Lista/Lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Módulo 2/Lista/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Módulo 2/Tuplas/Tupla exemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Módulo 2/Tuplas/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Módulo 2/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +40,21 @@
     "Python.Lista.executor": "Run",
     "Python.Lista_operacoes.executor": "Run",
     "Python.Listaofc.executor": "Run",
+    "Python.Tupla exemplo.executor": "Run",
+    "Python.Tuplas.executor": "Run",
     "Python.primeirocontatp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Documents\GitHub\aulapython\aulapython\Módulo 2\Tuplas" />
+      <recent name="C:\Users\pc\Documents\GitHub\aulapython\aulapython\Módulo 2\Lista" />
+      <recent name="C:\Users\pc\Documents\GitHub\aulapython\aulapython\Módulo 2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -122,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753880402966</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lista python completo 1.1">
+      <option name="closed" value="true" />
+      <created>1753881107579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753881107579</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Módulo 2">
+      <option name="closed" value="true" />
+      <created>1753881230560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753881230560</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +171,7 @@
     <MESSAGE value="Lista python 2" />
     <MESSAGE value="Lista python completo" />
     <MESSAGE value="Lista python completo 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista python completo 1.1" />
+    <MESSAGE value="Módulo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 2" />
   </component>
 </project>
