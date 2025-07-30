@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="Módulo 2">
+    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="Tupla módulo 2">
+      <change afterPath="$PROJECT_DIR$/Módulo 2/Tuplas/Dicionarios_relacooes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Módulo 2/Lista/Lista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Módulo 2/Lista/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Módulo 2/Tuplas/Tupla exemplo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Módulo 2/Tuplas/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Módulo 2/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Dicionarios_relacooes.executor": "Run",
     "Python.Lista.executor": "Run",
     "Python.Lista_operacoes.executor": "Run",
     "Python.Listaofc.executor": "Run",
@@ -150,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753881230560</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tupla módulo 2">
+      <option name="closed" value="true" />
+      <created>1753883100959</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753883100959</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +178,7 @@
     <MESSAGE value="Lista python completo" />
     <MESSAGE value="Lista python completo 1.1" />
     <MESSAGE value="Módulo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 2" />
+    <MESSAGE value="Tupla módulo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tupla módulo 2" />
   </component>
 </project>
