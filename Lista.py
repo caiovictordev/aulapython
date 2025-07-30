@@ -63,8 +63,7 @@ def extrato():
 def main():
     while True:
         print("=== Bem-vindo ao sistema bancário ===")
-        print("Selecione uma opção:")
-        print('1 - Depósito.')
+        print("Seleciosepósito.')
         print('2 - Saque.')
         print('3 - Extrato.')
         print('4 - Sair.')
