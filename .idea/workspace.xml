@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="dicionários relações">
-      <change afterPath="$PROJECT_DIR$/Módulo 2/Estrurura de repetição/For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Módulo 2/aula 1/atividade 1.py" afterDir="false" />
+    <list default="true" id="5320e133-6e84-4dd6-9f6b-5ef104d5de91" name="Changes" comment="Pre atividade">
+      <change afterPath="$PROJECT_DIR$/Módulo 2/aula 1/Atividade q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo 2/aula 1/lista pre atividade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Python.Tupla exemplo.executor": "Run",
     "Python.Tuplas.executor": "Run",
     "Python.atividade 1.executor": "Run",
+    "Python.lista pre atividade.executor": "Run",
     "Python.primeirocontatp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753883890292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Pre atividade">
+      <option name="closed" value="true" />
+      <created>1754519993314</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754519993314</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +200,7 @@
     <MESSAGE value="Módulo 2" />
     <MESSAGE value="Tupla módulo 2" />
     <MESSAGE value="dicionários relações" />
-    <option name="LAST_COMMIT_MESSAGE" value="dicionários relações" />
+    <MESSAGE value="Pre atividade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre atividade" />
   </component>
 </project>
